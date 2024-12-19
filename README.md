@@ -1,4 +1,4 @@
-# Flipkart Selenium Pytest Project
+# Automated Testing for Flipkart E-Commerce Platform
 
 ## About the Project
 
@@ -16,7 +16,7 @@ This project implements automated testing for the Flipkart e-commerce website us
 
 To clone this repository, use the following command:
 ```
-git clone https://github.com/mvbharath66/Flipkart_Selenium_Pytest_Project.git
+git clone git clone https://github.com/mvbharath66/Flipkart_Selenium_Pytest_Project.git
 ```
 
 ## Creation of Virtual Environment
@@ -55,4 +55,4 @@ Name: M V Bharath
 
 Email: mvbharath66@gmail.com
 
-# Flipkart_Selenium_Pytest_Project
+# Automated Testing for Flipkart E-Commerce Platform
